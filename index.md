@@ -25,46 +25,46 @@
 
 
 
-# script que imprime version completa de ubuntu ejemplo: ubuntu 16.04.1 LTS
+### script que imprime version completa de ubuntu ejemplo: ubuntu 16.04.1 LTS
 
 [https://huezo.github.io/version_ubuntu_script/](https://huezo.github.io/version_ubuntu_script/)
 
 [https://github.com/huezo/version_ubuntu_script](https://github.com/huezo/version_ubuntu_script)
 
 
-# script , que hace el apretar una tecla para salir de Terminal
+### script , que hace el apretar una tecla para salir de Terminal
 
 [http://huezo.github.io/script_ubuntu](http://huezo.github.io/script_ubuntu)
 
 [https://github.com/huezo/script_ubuntu](https://github.com/huezo/script_ubuntu)
 
-# Telegram
+###  Telegram
 
 [http://huezo.github.io/telegram_grupo](http://huezo.github.io/telegram_grupo)
 
 
-# sources.list
+### sources.list
 
 [http://huezo.github.io/listas_ppa_ubuntu](http://huezo.github.io/listas_ppa_ubuntu)
 
 
-# ...
+###  ...
 
 [http://huezo.github.io/huezo](http://huezo.github.io/huezo)
 
 
-# Saber Cuando Software privativo hay instalado
+###  Saber Cuando Software privativo hay instalado
 
 [https://huezo.github.io/rms/](https://huezo.github.io/rms/)
 
-# pasar o cambiar de ens33 a eth0 , eth1 , eth1 , wlan0 wlan1 ... etc
+### pasar o cambiar de ens33 a eth0 , eth1 , eth1 , wlan0 wlan1 ... etc
 
 [https://huezo.github.io/eth0/](https://huezo.github.io/eth0/)
 
 [https://github.com/huezo/eth0](https://github.com/huezo/eth0)
 
 
-# Themes Telegram
+## Themes Telegram
 
 [https://github.com/huezo/cnBrendy_purpleTheme](https://github.com/huezo/cnBrendy_purpleTheme)
 
@@ -77,7 +77,9 @@
 
 
 
-## T Rex Chromium
+###  T Rex Chromium
+
+
 [https://huezo.github.io/t-rex-runner/index.html](https://huezo.github.io/t-rex-runner/index.html)
 
 Celeste:
