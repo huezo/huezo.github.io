@@ -36,17 +36,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 #  Telegram
 
 | Comunidad | Administrador | Link |
@@ -55,5 +44,11 @@
 | GNU/LINUX Grupo | @huezohuezo1990 | https://telegram.me/GnuLinuxGrupo |
 | Ubuntu canal | @huezohuezo1990 | https://telegram.me/ubuntues |
 | GNU/LINUX canal  | @huezohuezo1990 | https://telegram.me/GnuLinuxEs |
+
+
+# blog
+
+# [https://huezohuezo1990.wordpress.com/](https://huezohuezo1990.wordpress.com/)
+
 
 
