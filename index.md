@@ -106,7 +106,7 @@ Blanco:
 
 Morado:
 
-https://huezo.github.io/t-rex-runner/morado.html
+[https://huezo.github.io/t-rex-runner/morado.html](https://huezo.github.io/t-rex-runner/morado.html)
 
 
 ## GPL v3
