@@ -73,7 +73,7 @@
 [https://github.com/huezo/ThemeTDesktop-huezo](https://github.com/huezo/ThemeTDesktop-huezo)
 
 
-
+[https://github.com/huezo/Android-Themes-Telegram_GNULinux](https://github.com/huezo/Android-Themes-Telegram_GNULinux)
 
 
 
@@ -104,6 +104,9 @@ Blanco:
 [https://huezo.github.io/t-rex-runner/blanco.html](https://huezo.github.io/t-rex-runner/gris.html)
 
 
+## GPL v3
 
+[GPLv3]:https://raw.githubusercontent.com/huezo/huezo.github.io/master/gplv3.png
 
+![GPLv3][GPLv3]
 
