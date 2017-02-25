@@ -104,6 +104,11 @@ Blanco:
 [https://huezo.github.io/t-rex-runner/blanco.html](https://huezo.github.io/t-rex-runner/gris.html)
 
 
+Morado:
+
+https://huezo.github.io/t-rex-runner/morado.html
+
+
 ## GPL v3
 
 [GPLv3]:https://raw.githubusercontent.com/huezo/huezo.github.io/master/gplv3.png
