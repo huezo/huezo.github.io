@@ -1,6 +1,14 @@
 # Huezo
 
 
+<html> 
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+
 # Mis Sitios
 
 [https://huezohuezo1990.wordpress.com](https://huezohuezo1990.wordpress.com)
@@ -115,3 +123,6 @@ Morado:
 
 ![GPLv3][GPLv3]
 
+
+</body>
+</html>
