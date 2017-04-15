@@ -8,7 +8,7 @@
 
 # Mis Sitios
 
-[https://huezohuezo1990.wordpress.com](https://huezohuezo1990.wordpress.com)
+## [https://huezohuezo1990.wordpress.com](https://huezohuezo1990.wordpress.com)
 
 [http://huezo.github.io](http://huezo.github.io)
 
@@ -113,6 +113,10 @@ Morado:
 
 [https://huezo.github.io/t-rex-runner/morado.html](https://huezo.github.io/t-rex-runner/morado.html)
 
+
+# Habilita la aceleración 3D de VMWare Workstation en GNU/Linux 
+
+## [http://huezo.github.io/vmware3d/](http://huezo.github.io/vmware3d/)
 
 ## GPL v3
 
