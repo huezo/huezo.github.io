@@ -118,6 +118,20 @@ Morado:
 
 ## [http://huezo.github.io/vmware3d/](http://huezo.github.io/vmware3d/)
 
+
+
+## SCRIPT para instalar paquetes , actualizar o eliminar ppa solo para Ubuntu o Derivados
+
+[https://huezo.github.io/hclear/](https://huezo.github.io/hclear/)
+
+[https://github.com/huezo/hclear](https://github.com/huezo/hclear)
+
+
+
+
+
+
+
 ## GPL v3
 
 [GPLv3]:https://raw.githubusercontent.com/huezo/huezo.github.io/master/gplv3.png
