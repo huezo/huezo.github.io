@@ -6,6 +6,12 @@
 
 # Huezo
 
+github:
+
+[https://github.com/huezo?tab=repositories](https://github.com/huezo?tab=repositories)
+
+[https://github.com/huezo](https://github.com/huezo)
+
 # Mis Sitios
 
 ## [https://huezohuezo1990.wordpress.com](https://huezohuezo1990.wordpress.com)
@@ -132,6 +138,10 @@ Morado:
 
 
 [https://huezo.github.io/hnmap/](https://huezo.github.io/hnmap/)
+
+# SCRIPT para Configurar Samba 
+
+[https://github.com/huezo/samba_sh](https://github.com/huezo/samba_sh)
 
 ## GPL v3
 
