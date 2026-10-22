@@ -35,11 +35,15 @@
 - **FAL 1.3**
 
 
-## GPL v3
+## GPLv3+
 
-[GPLv3]:https://raw.githubusercontent.com/huezo/huezo.github.io/master/gplv3.png
+[GPLv3+]: gplv3-or-later.png
+[GPLv3+-pequena]: gplv3-or-later-sm.png
 
-![GPLv3][GPLv3]
+![Logotipo de la licencia GNU GPLv3 o posterior][GPLv3+]
+
+![Logotipo pequeño de la licencia GNU GPLv3 o posterior][GPLv3+-pequena]
+
 
 
 
