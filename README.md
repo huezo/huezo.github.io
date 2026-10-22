@@ -13,12 +13,12 @@
 # [https://huezohuezo1990.wordpress.com/](https://huezohuezo1990.wordpress.com/)
 
 
-[GPLv3+]:gplv3-or-later.png
-![GPLv3+][GPLv3+]
+[GPLv3+]: gplv3-or-later.png
+[GPLv3+-pequena]: gplv3-or-later-sm.png
 
+![Logotipo de la licencia GNU GPLv3 o posterior][GPLv3+]
 
-[GPLv3++]:gplv3-or-later-sm.png
-![GPLv3++][GPLv3++]
+![Logotipo pequeño de la licencia GNU GPLv3 o posterior][GPLv3+-pequena]
 
 
 
